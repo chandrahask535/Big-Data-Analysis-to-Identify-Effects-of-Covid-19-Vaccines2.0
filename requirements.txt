@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+auto-sklearn
+tpot
+scikit-learn
+tk
