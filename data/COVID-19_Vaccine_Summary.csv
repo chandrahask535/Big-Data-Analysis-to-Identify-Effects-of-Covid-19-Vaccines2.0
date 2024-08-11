@@ -1,0 +1,14 @@
+Vaccine,Effectiveness,Crucial Side Effects,Death %,Biggest Side Effect,Chances of Occurrence of Biggest Side Effect
+Pfizer-BioNTech (Comirnaty),95%,"Myocarditis, pericarditis, anaphylaxis",Extremely Rare (not quantifiable),Myocarditis,12.6 cases per million doses administered
+Moderna (Spikevax),94.1%,"Myocarditis, pericarditis, anaphylaxis",Extremely Rare (not quantifiable),Myocarditis,13.3 cases per million doses administered
+AstraZeneca-Oxford (Vaxzevria),70-80%,"Thrombosis with thrombocytopenia syndrome (TTS), Guillain-Barré syndrome",Extremely Rare (not quantifiable),TTS,"1 case per 250,000 doses administered"
+Johnson & Johnson (Janssen),66%,"Thrombosis with thrombocytopenia syndrome (TTS), Guillain-Barré syndrome",Extremely Rare (not quantifiable),TTS,7 cases per million doses administered
+Sputnik V,91.6%,Anaphylaxis,Extremely Rare (not quantifiable),Anaphylaxis,Rare (exact incidence not well-documented)
+Sinopharm (BBIBP-CorV),79%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+Sinovac (CoronaVac),50-83.5%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+Covaxin,77.8%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+Novavax (Nuvaxovid),90%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+ZyCoV-D,66.6% (interim analysis),Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+Abdala,92.28%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+Soberana 02,"62% (2 doses), 91.2% (3 doses)",Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
+CanSinoBIO (Convidecia),65.7%,Severe allergic reactions,Extremely Rare (not quantifiable),Severe allergic reactions,Rare (exact incidence not well-documented)
